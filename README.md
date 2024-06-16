@@ -1,2 +1,2 @@
-# flylog-sdk-rust
-FlyLog SDK for Rust
+# FlyLog SDK for Rust
+Provides Rust API for application development with FlyLog framework.
